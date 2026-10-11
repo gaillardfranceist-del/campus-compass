@@ -1,0 +1,8 @@
+[
+ {"id":"KB01","topic":"office hours","keywords":"professor instructor meet appointment","answer":"Office hours are Monday–Thursday, 2–4 p.m., Room 301."},
+ {"id":"KB02","topic":"grading","keywords":"grades project exam participation weights","answer":"Projects count 60%, exams 30%, and participation 10%."},
+ {"id":"KB03","topic":"library hours","keywords":"library books study opening","answer":"The library opens Monday–Friday, 8 a.m.–8 p.m., and Saturday, 10 a.m.–4 p.m. It is closed Sunday."},
+ {"id":"KB04","topic":"IT support","keywords":"wifi password reset login help technology","answer":"For Wi-Fi or password-reset help, contact helpdesk@example.edu. Never send your password."},
+ {"id":"KB05","topic":"parking","keywords":"car permit vehicle parking","answer":"Student parking requires a permit and is available in Lot B."},
+ {"id":"KB06","topic":"accessibility","keywords":"accommodation disability access","answer":"Contact access@example.edu to request accessibility accommodations."}
+]
